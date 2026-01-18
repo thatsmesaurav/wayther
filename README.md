@@ -224,6 +224,3 @@ The waybar module uses Nerd Font icons:
 
 Make sure you have a [Nerd Font](https://www.nerdfonts.com/) installed for icons to display correctly.
 
-## License
-
-MIT
